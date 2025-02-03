@@ -1,6 +1,6 @@
 # Stacktrace for WordPress
 
-**Stacktrace** is a powerful, lightweight debugging and performance profiling tool for WordPress developers.  
+**Stacktrace** is a powerful, lightweight debugging and performance profiling tool for WordPress developers and site builders.  
 It helps you **track, log, and analyze** slow database queries, API calls, hooks, and plugin conflicts in real time.  
 
 ## 🚀 Why Use Stacktrace?  
