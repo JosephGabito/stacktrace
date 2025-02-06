@@ -1,0 +1,17 @@
+{
+    "name": "josephgabito/stacktrace",
+    "type": "project",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Stacktrace\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joseph G",
+            "email": "gabito.joseph@gmail.com"
+        }
+    ],
+    "require": {}
+}
