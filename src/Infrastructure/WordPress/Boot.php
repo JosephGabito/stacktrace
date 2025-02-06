@@ -2,7 +2,7 @@
 
 namespace Stacktrace\Infrastructure\WordPress;
 
-use Stacktrace\Infrastructure\WordPress\Providers\AssetsProvider;
+use Stacktrace\Infrastructure\WordPress\Providers\MainAssetsProvider;
 
 class Boot
 {
@@ -11,7 +11,7 @@ class Boot
     public function __construct()
     {
         $this->providers = [
-            new AssetsProvider(),
+            new MainAssetsProvider(),
         ];
     }
 
